@@ -3,7 +3,7 @@
 I’m a youth advocate, artist, and visionary. My curious dedication to wellness + performing arts as well as multiculturalism + public policy fuel my drive to be a catalyst for change as well as progress.
 
  🌱 I am currently...
-* Developing a student-led affinity group and nonprofit around cultural appreciation as well as mental strength.
+* Continuing the development of a student-led affinity group and nonprofit around cultural appreciation as well as mental strength.
 * Interning to improve Human-Computer Interaction for diverse cognitive styles in Dr. Margaret Burnett's Lab at Oregon State University.
 
 🧑🏻‍💻 Previously, I...
