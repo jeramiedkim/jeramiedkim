@@ -14,6 +14,12 @@ I’m a youth advocate, artist, and visionary. My curious dedication to wellness
 * Build out a couple of ideas with friends.
 * Travel to Seoul, South Korea to visit family.
 
+📫 Let's connect...
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/jeramiedkim/) or email me at jeramiek@oregonstate.edu.
+* Let's build community together!
+
+➕ For more information about me, see my [LinkedIn](https://www.linkedin.com/in/jeramiedkim/) or [Beacons](https://beacons.ai/jeramiedkim).
+
 <!---
 jeramiedkim/jeramiedkim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
