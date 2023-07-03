@@ -12,7 +12,8 @@ I’m a youth advocate, artist, and visionary. My curious dedication to wellness
 
 🎯 I hope to...
 * Build out a couple of ideas with friends.
-* Travel to Seoul, South Korea to visit family.
+* Read about life and work to navigate years ahead.
+* Travel to Seoul, South Korea to visit family and friends.
 
 📫 Let's connect...
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/jeramiedkim/) or email me at jeramiek@oregonstate.edu.
