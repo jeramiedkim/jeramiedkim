@@ -1,6 +1,6 @@
 # 👋 Hello, I am Jeramie (He/Him)
 
-I’m a rising high school senior with an intriguing fascination in the fields of computer science, organizational psychology, and international studies.
+I’m a rising high school senior with an intriguing fascination in the fields of Computer Science, Organizational Psychology, and International Studies.
 
  🌱 I am currently...
 * Continuing the development of a student-led affinity group and nonprofit around cultural appreciation as well as work life.
