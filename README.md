@@ -1,9 +1,9 @@
 # 👋 Hello, I am Jeramie (He/Him)
 
-I’m a youth advocate, artist, and visionary. My curious dedication to wellness + performing arts as well as multiculturalism + public policy fuel my drive to be a catalyst for change as well as progress.
+I’m a rising high school senior with an intriguing fascination in the fields of computer science, organizational psychology, and international studies.
 
  🌱 I am currently...
-* Continuing the development of a student-led affinity group and nonprofit around cultural appreciation as well as mental strength.
+* Continuing the development of a student-led affinity group and nonprofit around cultural appreciation as well as work life.
 * Interning to improve Human-Computer Interaction for diverse cognitive styles in Dr. Margaret Burnett's Lab at Oregon State University.
 
 🧑🏻‍💻 Previously, I...
