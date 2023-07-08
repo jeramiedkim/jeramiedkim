@@ -1,14 +1,14 @@
 # 👋 Hello, I am Jeramie (He/Him)
 
-I’m a rising high school senior with an intriguing fascination in the fields of Computer Science, Organizational Psychology, and International Studies.
+I’m a rising high school senior with an intriguing fascination in the fields of Psychology as well as Government and Legal Studies.
 
  🌱 I am currently...
 * Continuing the development of a student-led affinity group and nonprofit around cultural appreciation as well as work life.
 * Interning to improve Human-Computer Interaction for diverse cognitive styles in Dr. Margaret Burnett's Lab at Oregon State University.
 
 🧑🏻‍💻 Previously, I...
-* Awarded $2K from the YEA! Grant. Designed a cultural appreciation curriculum to teach 1.3K+ youth across Benton County through Advisor Presentations, Cultural Toolbox Tuesdays, and Weekly Meetings. Hosted a district-wide Crossroads of Cultures event by partnering with the Benton County Historical Society. Partnered with the Corvallis Multicultural Literacy Center to provide free cultural educational resources like a Global Reference Library & Kits focused on youth-for-youth education for a larger community of 6.8K+.
-* Enhanced UI Design by editing, evaluating, and proofreading final copies, resulting in a 14% increase in engagement through the introduction of crossword puzzles and sudoku. Published 10+ articles on various subjects, including Creative Writing Features to Raider Reads. Secured $750 from the YEA! Grant.
+* Awarded $2K by the Corvallis Public Schools Foundation. Designed a cultural appreciation curriculum to teach 1.3K+ youth across Oregon through Advisor Presentations, Cultural Toolbox Tuesdays, and Weekly Meetings. Hosted a district-wide Crossroads of Cultures event by partnering with the Benton County Historical Society. Partnered with the Corvallis Multicultural Literacy Center to provide free cultural educational resources like a Global Reference Library & Kits, benefiting a community of 6.8K.
+* Enhanced UI Design by editing, evaluating, and proofreading final copies, resulting in a 14% increase in engagement through the introduction of crossword puzzles and sudoku. Published 10+ articles on various subjects, including Creative Writing Features to Raider Reads. Secured $750 from the Corvallis Public Schools Foundation.
 
 🎯 I hope to...
 * Build out a couple of ideas with friends.
