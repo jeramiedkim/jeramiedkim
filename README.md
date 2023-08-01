@@ -11,7 +11,6 @@ I’m a rising high school senior with an intriguing fascination in the fields o
 * Enhanced UI Design by editing, evaluating, and proofreading final copies, resulting in a 14% increase in engagement through the introduction of crossword puzzles and sudoku. Published 10+ articles on various subjects, including Creative Writing Features to Raider Reads. Secured $750 from the Corvallis Public Schools Foundation.
 
 🎯 I hope to...
-* Build out a couple of ideas with friends.
 * Read about life and work to navigate years ahead.
 * Travel to Seoul, South Korea to visit family and friends.
 
